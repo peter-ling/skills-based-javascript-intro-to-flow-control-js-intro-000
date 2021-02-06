@@ -26,10 +26,10 @@ function ageChecker(age) {
 
 }
 
-// function ternaryTeenager(age) {
-//   return age <= 19 && age >= 13 : true : false;
-// 
-// }
+function ternaryTeenager(age) {
+  return age <= 19 && age >= 13 : true : false;
+
+}
 
 // function switchAge(age) {
 //
